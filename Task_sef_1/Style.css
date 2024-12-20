@@ -1,0 +1,33 @@
+body {
+   background-color:#474452;
+}
+
+button{
+
+    width: 150px;
+    height: 30px;
+    color: #050607;
+    background-color: rgb(130, 162, 248);
+}
+h2{
+    width: 600px;
+    height: 50px;
+background-color: rgb(230, 225, 219);
+
+}
+.dv1{
+    border: 2px dashed black;
+    background-color: rgb(230, 225, 219);
+    padding: 10px;
+    width:573px;
+    color: #1f1b17;
+
+}
+.dv2{
+    height: 70px;
+}
+.in{width: 130px; }
+/* img{
+    width:450px;
+    height: 450px;
+} */
